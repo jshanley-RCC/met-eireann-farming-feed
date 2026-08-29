@@ -1,0 +1,417 @@
+
+<forecast time="2026-08-29T10:00:00" issued="2026-08-29T05:00:00">
+    <station>
+        <id>03969</id>
+        <location>Dublin</location>
+        <day>
+            <day_num>29</day_num>
+            <date>2026-08-29T12:00:00</date>
+            <min_temp>14</min_temp>
+            <max_temp>17</max_temp>
+            <weather>heavy_rain.png</weather>
+            <weather_night>sun_with_light_cloud.png</weather_night>
+            <weather_text> HEAVY_RAIN</weather_text>
+            <weather_textN>SCATTERED_CLOUDS</weather_textN>
+            <wind_speed> 15 </wind_speed>
+            <wind_dir>NNE</wind_dir>
+            <wind_speed_night> 10 </wind_speed_night>
+            <wind_dir_night>SW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>30</day_num>
+            <date>2026-08-30T12:00:00</date>
+            <min_temp>13</min_temp>
+            <max_temp>21</max_temp>
+            <weather>heavy_rain_showers.png</weather>
+            <weather_night>sun_with_light_cloud.png</weather_night>
+            <weather_text> HEAVY_RAIN_SHOWERS</weather_text>
+            <weather_textN>SUN_WITH_LIGHT_CLOUD</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>SE</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>WNW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>31</day_num>
+            <date>2026-08-31T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>17</max_temp>
+            <weather>rain_showers.png</weather>
+            <weather_night>sun_with_light_cloud.png</weather_night>
+            <weather_text> RAIN_SHOWERS</weather_text>
+            <weather_textN>SUN_WITH_LIGHT_CLOUD</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>WNW</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>WSW</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03956</id>
+        <location>Wexford</location>
+        <day>
+            <day_num>29</day_num>
+            <date>2026-08-29T12:00:00</date>
+            <min_temp>13</min_temp>
+            <max_temp>17</max_temp>
+            <weather>heavy_rain.png</weather>
+            <weather_night>sun_with_grey_cloud.png</weather_night>
+            <weather_text> HEAVY_RAIN</weather_text>
+            <weather_textN>SUN_WITH_GREY_CLOUD</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>ENE</wind_dir>
+            <wind_speed_night> 15 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>30</day_num>
+            <date>2026-08-30T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>19</max_temp>
+            <weather>heavy_rain_showers.png</weather>
+            <weather_night>sun_with_light_cloud.png</weather_night>
+            <weather_text> HEAVY_RAIN_SHOWERS</weather_text>
+            <weather_textN>SCATTERED_CLOUDS</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SW</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>WNW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>31</day_num>
+            <date>2026-08-31T12:00:00</date>
+            <min_temp>13</min_temp>
+            <max_temp>18</max_temp>
+            <weather>rain_showers.png</weather>
+            <weather_night>sun_with_grey_cloud.png</weather_night>
+            <weather_text> RAIN_SHOWERS</weather_text>
+            <weather_textN>SUN_WITH_GREY_CLOUD</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>WNW</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>WSW</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03955</id>
+        <location>Cork</location>
+        <day>
+            <day_num>29</day_num>
+            <date>2026-08-29T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>20</max_temp>
+            <weather>heavy_rain.png</weather>
+            <weather_night>heavy_rain_showers.png</weather_night>
+            <weather_text> HEAVY_RAIN</weather_text>
+            <weather_textN>HEAVY_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>NNW</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>30</day_num>
+            <date>2026-08-30T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>18</max_temp>
+            <weather>heavy_rain_showers.png</weather>
+            <weather_night>sun_with_light_cloud.png</weather_night>
+            <weather_text> HEAVY_RAIN_SHOWERS</weather_text>
+            <weather_textN>SUN_WITH_LIGHT_CLOUD</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>SW</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>WNW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>31</day_num>
+            <date>2026-08-31T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>18</max_temp>
+            <weather>cloudy.png</weather>
+            <weather_night>sun_with_grey_cloud.png</weather_night>
+            <weather_text> CLOUDY</weather_text>
+            <weather_textN>SUN_WITH_GREY_CLOUD</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>WNW</wind_dir>
+            <wind_speed_night> 15 </wind_speed_night>
+            <wind_dir_night>WSW</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03953</id>
+        <location>Kerry</location>
+        <day>
+            <day_num>29</day_num>
+            <date>2026-08-29T12:00:00</date>
+            <min_temp>15</min_temp>
+            <max_temp>17</max_temp>
+            <weather>medium_rain_showers.png</weather>
+            <weather_night>heavy_rain_showers.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>HEAVY_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>WNW</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>30</day_num>
+            <date>2026-08-30T12:00:00</date>
+            <min_temp>14</min_temp>
+            <max_temp>16</max_temp>
+            <weather>rain_showers.png</weather>
+            <weather_night>medium_rain_showers.png</weather_night>
+            <weather_text> RAIN_SHOWERS</weather_text>
+            <weather_textN>MEDIUM_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>WNW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>NW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>31</day_num>
+            <date>2026-08-31T12:00:00</date>
+            <min_temp>14</min_temp>
+            <max_temp>17</max_temp>
+            <weather>light_rain.png</weather>
+            <weather_night>medium_rain_showers.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>MEDIUM_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>NW</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>WSW</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03985</id>
+        <location>Galway</location>
+        <day>
+            <day_num>29</day_num>
+            <date>2026-08-29T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>18</max_temp>
+            <weather>medium_rain_showers.png</weather>
+            <weather_night>medium_rain_showers.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>MEDIUM_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 15 </wind_speed>
+            <wind_dir>NNW</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>SE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>30</day_num>
+            <date>2026-08-30T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>18</max_temp>
+            <weather>heavy_rain_showers.png</weather>
+            <weather_night>rain_showers.png</weather_night>
+            <weather_text> HEAVY_RAIN_SHOWERS</weather_text>
+            <weather_textN>RAIN_SHOWERS</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>SSE</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>WNW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>31</day_num>
+            <date>2026-08-31T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>16</max_temp>
+            <weather>light_rain.png</weather>
+            <weather_night>medium_rain_showers.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>MEDIUM_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>WSW</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>WSW</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03978</id>
+        <location>Donegal</location>
+        <day>
+            <day_num>29</day_num>
+            <date>2026-08-29T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>15</max_temp>
+            <weather>sun_with_grey_cloud.png</weather>
+            <weather_night>sun_with_light_cloud.png</weather_night>
+            <weather_text> SUN_WITH_GREY_CLOUD</weather_text>
+            <weather_textN>SUN_WITH_LIGHT_CLOUD</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>W</wind_dir>
+            <wind_speed_night> 15 </wind_speed_night>
+            <wind_dir_night>W</wind_dir_night>
+        </day>
+        <day>
+            <day_num>30</day_num>
+            <date>2026-08-30T12:00:00</date>
+            <min_temp>13</min_temp>
+            <max_temp>16</max_temp>
+            <weather>medium_rain_showers.png</weather>
+            <weather_night>medium_rain_showers.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>MEDIUM_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>SE</wind_dir>
+            <wind_speed_night> 35 </wind_speed_night>
+            <wind_dir_night>NW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>31</day_num>
+            <date>2026-08-31T12:00:00</date>
+            <min_temp>13</min_temp>
+            <max_temp>15</max_temp>
+            <weather>cloudy.png</weather>
+            <weather_night>medium_rain_showers.png</weather_night>
+            <weather_text> CLOUDY</weather_text>
+            <weather_textN>MEDIUM_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>WNW</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>SW</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03966</id>
+        <location>Offaly</location>
+        <day>
+            <day_num>29</day_num>
+            <date>2026-08-29T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>16</max_temp>
+            <weather>heavy_rain.png</weather>
+            <weather_night>heavy_rain_showers.png</weather_night>
+            <weather_text> HEAVY_RAIN</weather_text>
+            <weather_textN>HEAVY_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>NNW</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>SSE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>30</day_num>
+            <date>2026-08-30T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>19</max_temp>
+            <weather>thunderstorm.png</weather>
+            <weather_night>medium_rain_showers.png</weather_night>
+            <weather_text> THUNDERSTORM</weather_text>
+            <weather_textN>MEDIUM_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>SSE</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>WNW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>31</day_num>
+            <date>2026-08-31T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>17</max_temp>
+            <weather>cloudy.png</weather>
+            <weather_night>sun_with_light_cloud.png</weather_night>
+            <weather_text> CLOUDY</weather_text>
+            <weather_textN>SUN_WITH_LIGHT_CLOUD</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>WNW</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>SW</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03970</id>
+        <location>Mayo</location>
+        <day>
+            <day_num>29</day_num>
+            <date>2026-08-29T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>17</max_temp>
+            <weather>medium_rain_showers.png</weather>
+            <weather_night>medium_rain_showers.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>MEDIUM_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 15 </wind_speed>
+            <wind_dir>WNW</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>SE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>30</day_num>
+            <date>2026-08-30T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>17</max_temp>
+            <weather>medium_rain_showers.png</weather>
+            <weather_night>medium_rain_showers.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>MEDIUM_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>SE</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>WNW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>31</day_num>
+            <date>2026-08-31T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>15</max_temp>
+            <weather>drizzle.png</weather>
+            <weather_night>medium_rain_showers.png</weather_night>
+            <weather_text> DRIZZLE</weather_text>
+            <weather_textN>MEDIUM_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>WNW</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>SW</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03917</id>
+        <location>Belfast</location>
+        <day>
+            <day_num>29</day_num>
+            <date>2026-08-29T12:00:00</date>
+            <min_temp>10</min_temp>
+            <max_temp>17</max_temp>
+            <weather>sun_with_grey_cloud.png</weather>
+            <weather_night>sun_with_light_cloud.png</weather_night>
+            <weather_text> SUN_WITH_GREY_CLOUD</weather_text>
+            <weather_textN>SUN_WITH_LIGHT_CLOUD</weather_textN>
+            <wind_speed> 10 </wind_speed>
+            <wind_dir>W</wind_dir>
+            <wind_speed_night> 10 </wind_speed_night>
+            <wind_dir_night>W</wind_dir_night>
+        </day>
+        <day>
+            <day_num>30</day_num>
+            <date>2026-08-30T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>17</max_temp>
+            <weather>heavy_rain_showers.png</weather>
+            <weather_night>medium_rain_showers.png</weather_night>
+            <weather_text> HEAVY_RAIN_SHOWERS</weather_text>
+            <weather_textN>MEDIUM_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 15 </wind_speed>
+            <wind_dir>SE</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>NW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>31</day_num>
+            <date>2026-08-31T12:00:00</date>
+            <min_temp>13</min_temp>
+            <max_temp>16</max_temp>
+            <weather>rain_showers.png</weather>
+            <weather_night>sun_with_light_cloud.png</weather_night>
+            <weather_text> RAIN_SHOWERS</weather_text>
+            <weather_textN>SUN_WITH_LIGHT_CLOUD</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>WNW</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>WSW</wind_dir_night>
+        </day>
+    </station>
+</forecast>
