@@ -7,128 +7,9 @@
       Archived Met Éireann forecasts and agricultural data
     </description>
     <language>en-ie</language>
-    <lastBuildDate>Sat, 29 Aug 2026 11:27:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:02:32 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[Roscommon County forecast — 2026-08-29 11:27 UTC]]></title>
-      <description><![CDATA[<h2>ROSCOMMON</h2>]]></description>
-      <link>https://www.met.ie/Open_Data/xml/county_forecast.xml</link>
-      <guid isPermaLink="false">Roscommon-County-forecast-a4cf8de632180db37f0c07a59cf154aae8bbba6de8ce88ae203e71b2da4814ae</guid>
-      <pubDate>Sat, 29 Aug 2026 11:27:50 GMT</pubDate>
-
-    </item>
-    <item>
-      <title><![CDATA[Connacht regional forecast — 2026-08-29 11:27 UTC]]></title>
-      <description><![CDATA[<h2>Cloudy at first with outbreaks of rain in eastern parts, heavy and persistent at times. Some patchy mist and hill fog also. Drier conditions with scattered showers, already in the west, will extend to all parts this afternoon and sunny spells will develop. A few may turn heavy. Highest temperatures of 15 to 18 degrees in mostly light northerly winds, gradually backing westerly.</h2>
-<p>A mix of cloud and clear spells at first tonight with isolated showers. Mist and fog patches will form. Cloud will increase from the west overnight, bringing more widespread showers. Some will be heavy and possibly thundery. Lowest temperatures of 11 to 15 degrees. Mostly light westerly winds will back south to southeast overnight and freshen near the southwest coast towards morning.</p>
-<p>A good deal of cloud about at first on Sunday with widespread showers. Some will be heavy and prolonged with a risk of thunder and localised flooding. Sunny spells will develop through the day. Highest temperatures of 16 to 19 or 20 degrees. Light to moderate east to southeast winds, fresh at times near coasts, will become west to northwest through the afternoon and evening. Winds may increase strong near the west coast in the evening.</p>
-<p>Low today and on Sunday.</p>
-<p>Low to moderate today and on Sunday.</p>]]></description>
-      <link>https://www.met.ie/Open_Data/xml/xConnacht.xml</link>
-      <guid isPermaLink="false">Connacht-regional-forecast-6cda9233c0556190037204c943ed5aa0556936adc7b82c55a5390b97303e2ac5</guid>
-      <pubDate>Sat, 29 Aug 2026 11:27:50 GMT</pubDate>
-
-    </item>
-    <item>
-      <title><![CDATA[Three-day forecast — 2026-08-29 11:27 UTC]]></title>
-      <description><![CDATA[<h2>03969</h2>
-<p>Dublin</p>
-<p>29</p>
-<p>2026-08-29T12:00:00</p>
-<p>14</p>
-<p>17</p>
-<p>heavy_rain.png</p>
-<p>sun_with_light_cloud.png</p>
-<p>HEAVY_RAIN</p>
-<p>SCATTERED_CLOUDS</p>
-<p>15</p>
-<p>NNE</p>
-<p>10</p>
-<p>SW</p>
-<p>30</p>
-<p>2026-08-30T12:00:00</p>
-<p>13</p>
-<p>21</p>
-<p>heavy_rain_showers.png</p>
-<p>HEAVY_RAIN_SHOWERS</p>
-<p>SUN_WITH_LIGHT_CLOUD</p>
-<p>20</p>
-<p>SE</p>
-<p>25</p>
-<p>WNW</p>
-<p>31</p>
-<p>2026-08-31T12:00:00</p>
-<p>12</p>
-<p>rain_showers.png</p>
-<p>RAIN_SHOWERS</p>
-<p>WSW</p>
-<p>03956</p>
-<p>Wexford</p>
-<p>sun_with_grey_cloud.png</p>
-<p>SUN_WITH_GREY_CLOUD</p>
-<p>ENE</p>
-<p>SSW</p>
-<p>19</p>
-<p>18</p>
-<p>03955</p>
-<p>Cork</p>
-<p>NNW</p>
-<p>11</p>
-<p>cloudy.png</p>
-<p>CLOUDY</p>
-<p>03953</p>
-<p>Kerry</p>
-<p>medium_rain_showers.png</p>
-<p>MEDIUM_RAIN_SHOWERS</p>
-<p>16</p>
-<p>NW</p>
-<p>light_rain.png</p>
-<p>LIGHT_RAIN</p>
-<p>03985</p>
-<p>Galway</p>
-<p>SSE</p>
-<p>03978</p>
-<p>Donegal</p>
-<p>35</p>
-<p>03966</p>
-<p>Offaly</p>
-<p>thunderstorm.png</p>
-<p>THUNDERSTORM</p>
-<p>03970</p>
-<p>Mayo</p>
-<p>drizzle.png</p>
-<p>DRIZZLE</p>
-<p>03917</p>
-<p>Belfast</p>]]></description>
-      <link>https://www.met.ie/Open_Data/xml/web-3Dayforecast.xml</link>
-      <guid isPermaLink="false">Three-day-forecast-baf39f8be6293d436304a05abf624d21deb0758d7d7288d7b2ab82b178c96f5c</guid>
-      <pubDate>Sat, 29 Aug 2026 11:27:50 GMT</pubDate>
-
-    </item>
-    <item>
-      <title><![CDATA[Agricultural Data Report — 2026-08-29 11:27 UTC]]></title>
-      <description><![CDATA[<h2>Agricultural Data Report</h2>
-<table border="1" cellpadding="4" cellspacing="0"><thead><tr><th>Station</th><th>Temp ( o C)</th><th>Rain (mm)</th><th>Sun (h)</th><th>Soil Temp ( o C)</th><th>Wind Speed (kn)</th><th>Radiation (J/cm 2 )</th></tr></thead><tbody><tr><th>Avg</th><th>Diff</th><th>Total</th><th>%</th><th>Total</th><th>%</th><th>Avg</th><th>Diff</th><th>Avg</th><th>Diff</th><th>Total</th><th>%</th></tr><tr><td>Ballyhaise</td><td>13.8</td><td>-0.9</td><td>8.3</td><td>42%</td><td>-</td><td>-</td><td>16.1</td><td>-</td><td>3.8</td><td>-</td><td>7970</td><td>96%</td></tr><tr><td>Belmullet</td><td>15.8</td><td>+1.2</td><td>8.4</td><td>36%</td><td>35.4</td><td>118%</td><td>17.6</td><td>+2.4</td><td>6.1</td><td>-5.3</td><td>10120</td><td>116%</td></tr><tr><td>Gurteen</td><td>15.1</td><td>+0.4</td><td>8.5</td><td>45%</td><td>29.1</td><td>-</td><td>17.0</td><td>-</td><td>4.7</td><td>-</td><td>9290</td><td>108%</td></tr><tr><td>Casement</td><td>14.2</td><td>-0.6</td><td>22.0</td><td>140%</td><td>27.4</td><td>84%</td><td>15.7</td><td>+1.1</td><td>5.5</td><td>-3.7</td><td>6620</td><td>86%</td></tr><tr><td>Claremorris</td><td>14.9</td><td>+0.6</td><td>8.4</td><td>38%</td><td>-</td><td>-</td><td>16.7</td><td>+2.3</td><td>5.2</td><td>-2.1</td><td>-</td><td>-</td></tr><tr><td>Cork Airport</td><td>15.0</td><td>+0.3</td><td>16.7</td><td>76%</td><td>39.4</td><td>113%</td><td>17.5</td><td>+2.9</td><td>7.9</td><td>-1.2</td><td>9970</td><td>-</td></tr><tr><td>Dublin Airport</td><td>14.1</td><td>-0.7</td><td>27.6</td><td>174%</td><td>32.5</td><td>96%</td><td>15.9</td><td>+1.1</td><td>6.6</td><td>-2.2</td><td>7070</td><td>93%</td></tr><tr><td>Johnstown Castle</td><td>15.1</td><td>+0.1</td><td>27.4</td><td>142%</td><td>42.6</td><td>119%</td><td>17.5</td><td>+2.1</td><td>5.8</td><td>-</td><td>9740</td><td>104%</td></tr><tr><td>Knock Airport</td><td>14.8</td><td>+1.5</td><td>10.1</td><td>41%</td><td>-</td><td>-</td><td>15.1</td><td>-</td><td>6.7</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Malin Head</td><td>14.8</td><td>+0.2</td><td>4.8</td><td>21%</td><td>34.1</td><td>114%</td><td>15.6</td><td>+1.5</td><td>11.9</td><td>-1.4</td><td>9630</td><td>114%</td></tr><tr><td>Mullingar</td><td>14.3</td><td>-0.0</td><td>8.7</td><td>45%</td><td>-</td><td>-</td><td>16.3</td><td>+1.7</td><td>4.4</td><td>-2.0</td><td>7450</td><td>89%</td></tr><tr><td>Oak park</td><td>15.0</td><td>-0.2</td><td>30.5</td><td>188%</td><td>-</td><td>-</td><td>17.9</td><td>+2.8</td><td>4.3</td><td>-</td><td>9860</td><td>113%</td></tr><tr><td>Roches Point</td><td>15.8</td><td>+0.7</td><td>26.2</td><td>135%</td><td>-</td><td>-</td><td>18.0</td><td>-</td><td>8.4</td><td>-</td><td>10350</td><td>111%</td></tr><tr><td>Shannon Airport</td><td>16.0</td><td>+0.3</td><td>24.4</td><td>133%</td><td>34.3</td><td>112%</td><td>17.3</td><td>+1.9</td><td>5.0</td><td>-3.3</td><td>-</td><td>-</td></tr><tr><td>Valentia</td><td>14.8</td><td>-0.3</td><td>7.8</td><td>29%</td><td>35.3</td><td>118%</td><td>16.9</td><td>+1.5</td><td>4.6</td><td>-3.6</td><td>9440</td><td>104%</td></tr></tbody></table><h3>Images</h3><p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/72ed4aa7d589aeb3a12c.jpg" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/37455934ceb8843bfc05.png" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/00d96befd7f411ea76c6.png" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/6cc193a97d9d8c94902f.png" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/d89fa6175a0786029910.png" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/ac42eac9d2628ae65ed1.png" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/7a174c69613b2acc500b.png" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/27df37df4a6059c56970.svg" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>]]></description>
-      <link>https://www.met.ie/forecasts/farming/agricultural-data-report</link>
-      <guid isPermaLink="false">Agricultural-Data-Report-2f747e686de5bf25b8d93149f64ae2dffded48d65ca5f32776da910ba78171b8</guid>
-      <pubDate>Sat, 29 Aug 2026 11:27:53 GMT</pubDate>
-      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/72ed4aa7d589aeb3a12c.jpg" type="image/jpeg" length="0" />
-      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/37455934ceb8843bfc05.png" type="image/png" length="0" />
-      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/00d96befd7f411ea76c6.png" type="image/png" length="0" />
-      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/6cc193a97d9d8c94902f.png" type="image/png" length="0" />
-      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/d89fa6175a0786029910.png" type="image/png" length="0" />
-      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/ac42eac9d2628ae65ed1.png" type="image/png" length="0" />
-      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/7a174c69613b2acc500b.png" type="image/png" length="0" />
-      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/27df37df4a6059c56970.svg" type="image/svg+xml" length="0" />
-    </item>
-    <item>
-      <title><![CDATA[Latest Farming Commentary — 2026-08-29 11:27 UTC]]></title>
+      <title><![CDATA[Latest Farming Commentary — 2026-08-29 12:02 UTC]]></title>
       <description><![CDATA[<p>The Irish Meteorological Service</p>
 <ul><li>Forecasts Weather Warnings &amp; Advisories Fire Weather Index Meteoalarm- European Weather Warnings National &amp; Regional Forecasts Listen To The Weather Forecast Meteorologist’s Commentary Accessible Text Forecast Atlantic Charts – 10 Day Forecast Ensemble Forecast Probability Maps Marine Sea Area Forecast UV Index Pollen Forecast Farming Commentary Agricultural Data Report Storm Names Mountains Forecast Fire Weather Index Blight Forecast Meteoalarm WorldWeather</li><li>Latest Reports Current Observations Yesterday’s Weather Surface Analysis Chart Satellites Ireland Europe World Weather Observations Website WOW-IE Recent Rainfall Radar 12 hour Rainfall Radar 24 hour Rainfall Radar 48 hour Rainfall Radar Buoy Reports Valentia Tephigram</li><li>Climate Climate of Ireland Climate Change Weather Extreme Records for Ireland Major Weather Events Summer Centre Storm Centre Past Weather Statements Past Weather Agrometeorological Bulletins Services NFCS Weather Observations Website WOW-IE Available Data Daily Data Historical Data Monthly Data MÉRA Long Term Data Sets 30 Year Averages Climate Change Indices Building Design Files What we measure Weather Observing Stations Temperature Rainfall Atmospheric Pressure Lightning Lightning Archive Sunshine Wind Upper Air Water Vapour</li><li>Education Education Podcasts School Resources What is Lightning? The Northern Lights About the Library Special Collections How Met Éireann produces a forecast Conversions Satellite Images of Ireland Publications Met Éireann publications Books published by Met Éireann Climatological Data Sets Technical Notes Climatological Notes Historical Notes Climate Change Research Reports Agrometeorological Bulletins Peer-reviewed journal articles by Met Éireann staff members</li><li>Science Science Weather and Climate Research Programme Research Call 2024 Research Professorship Call 2023 (Closed) Research Call 2023 (Closed) Research Call 2021 (Closed) Research Call 2020 (Closed) TRANSLATE TRANSLATE2 Agricultural Meteorology Climate Modelling Atlantic Meridional Overturning Circulation (AMOC) Events MÉRA Workshop 2019 MÉRA Workshop Forecasting Centre Television Weather Bulletins Met Éireann Ar An Raidió Laboratory Links to other Institutes Marine Meteorology Marine Climatology Numerical Weather Prediction Operational NWP Valentia Observatory Aerosol Optical Depth Air and Rain Pollution Geomagnetism Lightning Detection Ozone monitoring Phenology Seismology Solar Radiation Verification</li><li>Podcasts Listen To The Weather Forecast The Met Éireann Podcast Podchraoladh Met Éireann</li><li>About About Us Strategy Mission Statement Met Éireann’s Structure Our History Valentia Observatory Airports Specialised Services Flood Forecasting Centre Aviation Services Division Open Data Widgets Commercial Services Legal Weather Reports Information Contact Us Information For Media Latest News Awards Vacancies FAQ Website &amp; App Help Privacy</li><li>Search</li></ul>
 <ul><li>Weather Warnings &amp; Advisories Fire Weather Index Meteoalarm- European Weather Warnings</li><li>National &amp; Regional Forecasts Listen To The Weather Forecast Meteorologist’s Commentary Accessible Text Forecast</li><li>Atlantic Charts – 10 Day Forecast</li><li>Ensemble Forecast Probability Maps</li><li>Marine Sea Area Forecast</li><li>UV Index</li><li>Pollen Forecast</li><li>Farming Commentary Agricultural Data Report</li><li>Storm Names</li><li>Mountains Forecast</li><li>Fire Weather Index</li><li>Blight Forecast</li><li>Meteoalarm</li><li>WorldWeather</li></ul>
@@ -186,42 +67,42 @@
 <ul><li>Agricultural Data Report</li></ul>
 <h2>Agricultural Data Graphs</h2>
 <h4>Mean Air Temperature Degrees Celsius</h4>
-<p>Fri 21st Aug to Thu 27th Aug</p>
+<p>Sat 22nd Aug to Fri 28th Aug</p>
 <h4>Mean Air Temperature Degrees Celsius Difference from Normal</h4>
-<p>Fri 21st Aug to Thu 27th Aug</p>
+<p>Sat 22nd Aug to Fri 28th Aug</p>
 <h4>Accumulated Rainfall mm</h4>
-<p>Fri 21st Aug to Thu 27th Aug</p>
+<p>Sat 22nd Aug to Fri 28th Aug</p>
 <h4>Accumulated Rainfall mm Percentage of Average</h4>
-<p>Fri 21st Aug to Thu 27th Aug</p>
+<p>Sat 22nd Aug to Fri 28th Aug</p>
 <h4>Accumulated Solar Radiation Joules per cm^2</h4>
-<p>Fri 21st Aug to Thu 27th Aug</p>
+<p>Sat 22nd Aug to Fri 28th Aug</p>
 <h4>Accumulated Solar Radiation Joules per cm^2 Percentage of Average</h4>
-<p>Fri 21st Aug to Thu 27th Aug</p>
+<p>Sat 22nd Aug to Fri 28th Aug</p>
 <h4>Accumulated Sunshine hours</h4>
-<p>Fri 21st Aug to Thu 27th Aug</p>
+<p>Sat 22nd Aug to Fri 28th Aug</p>
 <h4>Accumulated Sunshine hours Percentage of Average</h4>
-<p>Fri 21st Aug to Thu 27th Aug</p>
+<p>Sat 22nd Aug to Fri 28th Aug</p>
 <h4>Mean Soil Temperature Degrees Celsius</h4>
-<p>Fri 21st Aug to Thu 27th Aug</p>
+<p>Sat 22nd Aug to Fri 28th Aug</p>
 <h4>Mean Soil Temperature Degrees Celsius Difference from Normal</h4>
-<p>Fri 21st Aug to Thu 27th Aug</p>
+<p>Sat 22nd Aug to Fri 28th Aug</p>
 <h4>Mean Wind Speed Knots</h4>
-<p>Fri 21st Aug to Thu 27th Aug</p>
+<p>Sat 22nd Aug to Fri 28th Aug</p>
 <h4>Mean Wind Speed Knots Difference from Normal</h4>
-<p>Fri 21st Aug to Thu 27th Aug</p>
+<p>Sat 22nd Aug to Fri 28th Aug</p>
 <h2>Soil Moisture Deficits</h2>
 <h4>Well Drained Soil Moisture Deficit</h4>
-<p>Thu 27th Aug</p>
+<p>Fri 28th Aug</p>
 <h4>Moderately Drained Soil Moisture Deficit</h4>
-<p>Thu 27th Aug</p>
+<p>Fri 28th Aug</p>
 <h4>Poorly Drained Soil Moisture Deficit</h4>
-<p>Thu 27th Aug</p>
+<p>Fri 28th Aug</p>
 <h4>Well Drained Soil Moisture Deficit Difference from Normal</h4>
-<p>Thu 27th Aug</p>
+<p>Fri 28th Aug</p>
 <h4>Moderately Drained Soil Moisture Deficit Difference from Normal</h4>
-<p>Thu 27th Aug</p>
+<p>Fri 28th Aug</p>
 <h4>Poorly Drained Soil Moisture Deficit Difference from Normal</h4>
-<p>Thu 27th Aug</p>
+<p>Fri 28th Aug</p>
 <p>Soil Moisture Deficits (SMDs) in (mm) are calculated for three classes of soil: well drained, moderately drained and poorly drained. For further information on how Soil Moisture Deficits are calculated, click here .</p>
 <p>Back to top of page</p>
 <ul><li>Cookies Settings</li><li>Cookie Information</li></ul>
@@ -229,32 +110,313 @@
 <h2>Search</h2>
 <h2>Connect</h2>
 <ul><li>Twitter</li><li>Facebook</li><li>YouTube</li><li>LinkedIn</li></ul>
-<h2>Download our apps</h2><h3>Images</h3><p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/72ed4aa7d589aeb3a12c.jpg" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/37455934ceb8843bfc05.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/0a3d0375364e097acc52.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/f9e1a961105738b060e2.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/3fa7af8ed937b78e1c49.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/535f3237f150f54a4617.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/23b13adcecde44e1447a.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/f4bae8cca0c9845169f8.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/f42ce8f65ee1db163d09.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/609a6b6c282cbc9f66b8.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/dc6302b911b2c36c6f01.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/347df3f8cd962c2cc724.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/6230d4a96b36d069a51c.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/29682d42d4fd3006c901.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/ee816acb40e2174d26fb.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/d1a3e1aa29219a387e1d.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/061736f5ad611678fa09.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/56e36898079d3de29f20.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/65e17b007a6c631a911c.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/88a3741c1299fd968d5e.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/00d96befd7f411ea76c6.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/6cc193a97d9d8c94902f.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/d89fa6175a0786029910.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/ac42eac9d2628ae65ed1.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/7a174c69613b2acc500b.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>
-<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/27df37df4a6059c56970.svg" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"></p>]]></description>
+<h2>Download our apps</h2><h3>Images</h3><p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/72ed4aa7d589aeb3a12c.jpg" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/37455934ceb8843bfc05.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/56b83bb5a3356ead03bb.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/b99ff73a6b12631eebba.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/662c5e531de2e7045d35.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/35cd28b9bd731d448689.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/87354c5090c018d16003.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/35915590e087dd8f8671.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/e0549502289f0b1ef509.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/7c327b6c6bc62ac81452.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/bf61bafb6eb43357db95.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/07867b729763e0aa8895.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/1b89402d89fa39c819b2.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/7f863da8576df329231b.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/cfe0838ad3fca9ffe40a.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/d0834d73249c032744ac.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/de342a23dd2edbb7bf4c.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/bf07ddbc2c572121af03.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/a1aed83d89e0d419a7e7.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/6602eb05b365e0e6abbc.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/00d96befd7f411ea76c6.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/6cc193a97d9d8c94902f.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/d89fa6175a0786029910.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/ac42eac9d2628ae65ed1.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/7a174c69613b2acc500b.png" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>
+<p><img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/27df37df4a6059c56970.svg" alt="Latest Farming Commentary — 2026-08-29 12:02 UTC" style="max-width:100%;height:auto;"></p>]]></description>
+      <link>https://www.met.ie/forecasts/farming</link>
+      <guid isPermaLink="false">Latest-Farming-Commentary-e5dd40dc2a236d94f1257745449fd1a8de8ce63cc364f48e2f4bf1b7a94c4332</guid>
+      <pubDate>Sat, 29 Aug 2026 12:02:32 GMT</pubDate>
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/72ed4aa7d589aeb3a12c.jpg" type="image/jpeg" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/37455934ceb8843bfc05.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/56b83bb5a3356ead03bb.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/b99ff73a6b12631eebba.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/662c5e531de2e7045d35.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/35cd28b9bd731d448689.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/87354c5090c018d16003.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/35915590e087dd8f8671.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/e0549502289f0b1ef509.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/7c327b6c6bc62ac81452.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/bf61bafb6eb43357db95.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/07867b729763e0aa8895.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/1b89402d89fa39c819b2.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/7f863da8576df329231b.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/cfe0838ad3fca9ffe40a.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/d0834d73249c032744ac.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/de342a23dd2edbb7bf4c.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/bf07ddbc2c572121af03.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/a1aed83d89e0d419a7e7.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/6602eb05b365e0e6abbc.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/00d96befd7f411ea76c6.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/6cc193a97d9d8c94902f.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/d89fa6175a0786029910.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/ac42eac9d2628ae65ed1.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/7a174c69613b2acc500b.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/27df37df4a6059c56970.svg" type="image/svg+xml" length="0" />
+    </item>
+<item>
+      <title>Roscommon County forecast — 2026-08-29 11:27 UTC</title>
+      <description>&lt;h2&gt;ROSCOMMON&lt;/h2&gt;</description>
+      <link>https://www.met.ie/Open_Data/xml/county_forecast.xml</link>
+      <guid isPermaLink="false">Roscommon-County-forecast-a4cf8de632180db37f0c07a59cf154aae8bbba6de8ce88ae203e71b2da4814ae</guid>
+      <pubDate>Sat, 29 Aug 2026 11:27:50 GMT</pubDate>
+
+    </item>
+    
+<item>
+      <title>Connacht regional forecast — 2026-08-29 11:27 UTC</title>
+      <description>&lt;h2&gt;Cloudy at first with outbreaks of rain in eastern parts, heavy and persistent at times. Some patchy mist and hill fog also. Drier conditions with scattered showers, already in the west, will extend to all parts this afternoon and sunny spells will develop. A few may turn heavy. Highest temperatures of 15 to 18 degrees in mostly light northerly winds, gradually backing westerly.&lt;/h2&gt;
+&lt;p&gt;A mix of cloud and clear spells at first tonight with isolated showers. Mist and fog patches will form. Cloud will increase from the west overnight, bringing more widespread showers. Some will be heavy and possibly thundery. Lowest temperatures of 11 to 15 degrees. Mostly light westerly winds will back south to southeast overnight and freshen near the southwest coast towards morning.&lt;/p&gt;
+&lt;p&gt;A good deal of cloud about at first on Sunday with widespread showers. Some will be heavy and prolonged with a risk of thunder and localised flooding. Sunny spells will develop through the day. Highest temperatures of 16 to 19 or 20 degrees. Light to moderate east to southeast winds, fresh at times near coasts, will become west to northwest through the afternoon and evening. Winds may increase strong near the west coast in the evening.&lt;/p&gt;
+&lt;p&gt;Low today and on Sunday.&lt;/p&gt;
+&lt;p&gt;Low to moderate today and on Sunday.&lt;/p&gt;</description>
+      <link>https://www.met.ie/Open_Data/xml/xConnacht.xml</link>
+      <guid isPermaLink="false">Connacht-regional-forecast-6cda9233c0556190037204c943ed5aa0556936adc7b82c55a5390b97303e2ac5</guid>
+      <pubDate>Sat, 29 Aug 2026 11:27:50 GMT</pubDate>
+
+    </item>
+    
+<item>
+      <title>Three-day forecast — 2026-08-29 11:27 UTC</title>
+      <description>&lt;h2&gt;03969&lt;/h2&gt;
+&lt;p&gt;Dublin&lt;/p&gt;
+&lt;p&gt;29&lt;/p&gt;
+&lt;p&gt;2026-08-29T12:00:00&lt;/p&gt;
+&lt;p&gt;14&lt;/p&gt;
+&lt;p&gt;17&lt;/p&gt;
+&lt;p&gt;heavy_rain.png&lt;/p&gt;
+&lt;p&gt;sun_with_light_cloud.png&lt;/p&gt;
+&lt;p&gt;HEAVY_RAIN&lt;/p&gt;
+&lt;p&gt;SCATTERED_CLOUDS&lt;/p&gt;
+&lt;p&gt;15&lt;/p&gt;
+&lt;p&gt;NNE&lt;/p&gt;
+&lt;p&gt;10&lt;/p&gt;
+&lt;p&gt;SW&lt;/p&gt;
+&lt;p&gt;30&lt;/p&gt;
+&lt;p&gt;2026-08-30T12:00:00&lt;/p&gt;
+&lt;p&gt;13&lt;/p&gt;
+&lt;p&gt;21&lt;/p&gt;
+&lt;p&gt;heavy_rain_showers.png&lt;/p&gt;
+&lt;p&gt;HEAVY_RAIN_SHOWERS&lt;/p&gt;
+&lt;p&gt;SUN_WITH_LIGHT_CLOUD&lt;/p&gt;
+&lt;p&gt;20&lt;/p&gt;
+&lt;p&gt;SE&lt;/p&gt;
+&lt;p&gt;25&lt;/p&gt;
+&lt;p&gt;WNW&lt;/p&gt;
+&lt;p&gt;31&lt;/p&gt;
+&lt;p&gt;2026-08-31T12:00:00&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;rain_showers.png&lt;/p&gt;
+&lt;p&gt;RAIN_SHOWERS&lt;/p&gt;
+&lt;p&gt;WSW&lt;/p&gt;
+&lt;p&gt;03956&lt;/p&gt;
+&lt;p&gt;Wexford&lt;/p&gt;
+&lt;p&gt;sun_with_grey_cloud.png&lt;/p&gt;
+&lt;p&gt;SUN_WITH_GREY_CLOUD&lt;/p&gt;
+&lt;p&gt;ENE&lt;/p&gt;
+&lt;p&gt;SSW&lt;/p&gt;
+&lt;p&gt;19&lt;/p&gt;
+&lt;p&gt;18&lt;/p&gt;
+&lt;p&gt;03955&lt;/p&gt;
+&lt;p&gt;Cork&lt;/p&gt;
+&lt;p&gt;NNW&lt;/p&gt;
+&lt;p&gt;11&lt;/p&gt;
+&lt;p&gt;cloudy.png&lt;/p&gt;
+&lt;p&gt;CLOUDY&lt;/p&gt;
+&lt;p&gt;03953&lt;/p&gt;
+&lt;p&gt;Kerry&lt;/p&gt;
+&lt;p&gt;medium_rain_showers.png&lt;/p&gt;
+&lt;p&gt;MEDIUM_RAIN_SHOWERS&lt;/p&gt;
+&lt;p&gt;16&lt;/p&gt;
+&lt;p&gt;NW&lt;/p&gt;
+&lt;p&gt;light_rain.png&lt;/p&gt;
+&lt;p&gt;LIGHT_RAIN&lt;/p&gt;
+&lt;p&gt;03985&lt;/p&gt;
+&lt;p&gt;Galway&lt;/p&gt;
+&lt;p&gt;SSE&lt;/p&gt;
+&lt;p&gt;03978&lt;/p&gt;
+&lt;p&gt;Donegal&lt;/p&gt;
+&lt;p&gt;35&lt;/p&gt;
+&lt;p&gt;03966&lt;/p&gt;
+&lt;p&gt;Offaly&lt;/p&gt;
+&lt;p&gt;thunderstorm.png&lt;/p&gt;
+&lt;p&gt;THUNDERSTORM&lt;/p&gt;
+&lt;p&gt;03970&lt;/p&gt;
+&lt;p&gt;Mayo&lt;/p&gt;
+&lt;p&gt;drizzle.png&lt;/p&gt;
+&lt;p&gt;DRIZZLE&lt;/p&gt;
+&lt;p&gt;03917&lt;/p&gt;
+&lt;p&gt;Belfast&lt;/p&gt;</description>
+      <link>https://www.met.ie/Open_Data/xml/web-3Dayforecast.xml</link>
+      <guid isPermaLink="false">Three-day-forecast-baf39f8be6293d436304a05abf624d21deb0758d7d7288d7b2ab82b178c96f5c</guid>
+      <pubDate>Sat, 29 Aug 2026 11:27:50 GMT</pubDate>
+
+    </item>
+    
+<item>
+      <title>Agricultural Data Report — 2026-08-29 11:27 UTC</title>
+      <description>&lt;h2&gt;Agricultural Data Report&lt;/h2&gt;
+&lt;table border="1" cellpadding="4" cellspacing="0"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Station&lt;/th&gt;&lt;th&gt;Temp ( o C)&lt;/th&gt;&lt;th&gt;Rain (mm)&lt;/th&gt;&lt;th&gt;Sun (h)&lt;/th&gt;&lt;th&gt;Soil Temp ( o C)&lt;/th&gt;&lt;th&gt;Wind Speed (kn)&lt;/th&gt;&lt;th&gt;Radiation (J/cm 2 )&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;Avg&lt;/th&gt;&lt;th&gt;Diff&lt;/th&gt;&lt;th&gt;Total&lt;/th&gt;&lt;th&gt;%&lt;/th&gt;&lt;th&gt;Total&lt;/th&gt;&lt;th&gt;%&lt;/th&gt;&lt;th&gt;Avg&lt;/th&gt;&lt;th&gt;Diff&lt;/th&gt;&lt;th&gt;Avg&lt;/th&gt;&lt;th&gt;Diff&lt;/th&gt;&lt;th&gt;Total&lt;/th&gt;&lt;th&gt;%&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ballyhaise&lt;/td&gt;&lt;td&gt;13.8&lt;/td&gt;&lt;td&gt;-0.9&lt;/td&gt;&lt;td&gt;8.3&lt;/td&gt;&lt;td&gt;42%&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;16.1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;3.8&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;7970&lt;/td&gt;&lt;td&gt;96%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Belmullet&lt;/td&gt;&lt;td&gt;15.8&lt;/td&gt;&lt;td&gt;+1.2&lt;/td&gt;&lt;td&gt;8.4&lt;/td&gt;&lt;td&gt;36%&lt;/td&gt;&lt;td&gt;35.4&lt;/td&gt;&lt;td&gt;118%&lt;/td&gt;&lt;td&gt;17.6&lt;/td&gt;&lt;td&gt;+2.4&lt;/td&gt;&lt;td&gt;6.1&lt;/td&gt;&lt;td&gt;-5.3&lt;/td&gt;&lt;td&gt;10120&lt;/td&gt;&lt;td&gt;116%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gurteen&lt;/td&gt;&lt;td&gt;15.1&lt;/td&gt;&lt;td&gt;+0.4&lt;/td&gt;&lt;td&gt;8.5&lt;/td&gt;&lt;td&gt;45%&lt;/td&gt;&lt;td&gt;29.1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;17.0&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;4.7&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;9290&lt;/td&gt;&lt;td&gt;108%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Casement&lt;/td&gt;&lt;td&gt;14.2&lt;/td&gt;&lt;td&gt;-0.6&lt;/td&gt;&lt;td&gt;22.0&lt;/td&gt;&lt;td&gt;140%&lt;/td&gt;&lt;td&gt;27.4&lt;/td&gt;&lt;td&gt;84%&lt;/td&gt;&lt;td&gt;15.7&lt;/td&gt;&lt;td&gt;+1.1&lt;/td&gt;&lt;td&gt;5.5&lt;/td&gt;&lt;td&gt;-3.7&lt;/td&gt;&lt;td&gt;6620&lt;/td&gt;&lt;td&gt;86%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Claremorris&lt;/td&gt;&lt;td&gt;14.9&lt;/td&gt;&lt;td&gt;+0.6&lt;/td&gt;&lt;td&gt;8.4&lt;/td&gt;&lt;td&gt;38%&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;16.7&lt;/td&gt;&lt;td&gt;+2.3&lt;/td&gt;&lt;td&gt;5.2&lt;/td&gt;&lt;td&gt;-2.1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cork Airport&lt;/td&gt;&lt;td&gt;15.0&lt;/td&gt;&lt;td&gt;+0.3&lt;/td&gt;&lt;td&gt;16.7&lt;/td&gt;&lt;td&gt;76%&lt;/td&gt;&lt;td&gt;39.4&lt;/td&gt;&lt;td&gt;113%&lt;/td&gt;&lt;td&gt;17.5&lt;/td&gt;&lt;td&gt;+2.9&lt;/td&gt;&lt;td&gt;7.9&lt;/td&gt;&lt;td&gt;-1.2&lt;/td&gt;&lt;td&gt;9970&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dublin Airport&lt;/td&gt;&lt;td&gt;14.1&lt;/td&gt;&lt;td&gt;-0.7&lt;/td&gt;&lt;td&gt;27.6&lt;/td&gt;&lt;td&gt;174%&lt;/td&gt;&lt;td&gt;32.5&lt;/td&gt;&lt;td&gt;96%&lt;/td&gt;&lt;td&gt;15.9&lt;/td&gt;&lt;td&gt;+1.1&lt;/td&gt;&lt;td&gt;6.6&lt;/td&gt;&lt;td&gt;-2.2&lt;/td&gt;&lt;td&gt;7070&lt;/td&gt;&lt;td&gt;93%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Johnstown Castle&lt;/td&gt;&lt;td&gt;15.1&lt;/td&gt;&lt;td&gt;+0.1&lt;/td&gt;&lt;td&gt;27.4&lt;/td&gt;&lt;td&gt;142%&lt;/td&gt;&lt;td&gt;42.6&lt;/td&gt;&lt;td&gt;119%&lt;/td&gt;&lt;td&gt;17.5&lt;/td&gt;&lt;td&gt;+2.1&lt;/td&gt;&lt;td&gt;5.8&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;9740&lt;/td&gt;&lt;td&gt;104%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Knock Airport&lt;/td&gt;&lt;td&gt;14.8&lt;/td&gt;&lt;td&gt;+1.5&lt;/td&gt;&lt;td&gt;10.1&lt;/td&gt;&lt;td&gt;41%&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;15.1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;6.7&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Malin Head&lt;/td&gt;&lt;td&gt;14.8&lt;/td&gt;&lt;td&gt;+0.2&lt;/td&gt;&lt;td&gt;4.8&lt;/td&gt;&lt;td&gt;21%&lt;/td&gt;&lt;td&gt;34.1&lt;/td&gt;&lt;td&gt;114%&lt;/td&gt;&lt;td&gt;15.6&lt;/td&gt;&lt;td&gt;+1.5&lt;/td&gt;&lt;td&gt;11.9&lt;/td&gt;&lt;td&gt;-1.4&lt;/td&gt;&lt;td&gt;9630&lt;/td&gt;&lt;td&gt;114%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mullingar&lt;/td&gt;&lt;td&gt;14.3&lt;/td&gt;&lt;td&gt;-0.0&lt;/td&gt;&lt;td&gt;8.7&lt;/td&gt;&lt;td&gt;45%&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;16.3&lt;/td&gt;&lt;td&gt;+1.7&lt;/td&gt;&lt;td&gt;4.4&lt;/td&gt;&lt;td&gt;-2.0&lt;/td&gt;&lt;td&gt;7450&lt;/td&gt;&lt;td&gt;89%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oak park&lt;/td&gt;&lt;td&gt;15.0&lt;/td&gt;&lt;td&gt;-0.2&lt;/td&gt;&lt;td&gt;30.5&lt;/td&gt;&lt;td&gt;188%&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;17.9&lt;/td&gt;&lt;td&gt;+2.8&lt;/td&gt;&lt;td&gt;4.3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;9860&lt;/td&gt;&lt;td&gt;113%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Roches Point&lt;/td&gt;&lt;td&gt;15.8&lt;/td&gt;&lt;td&gt;+0.7&lt;/td&gt;&lt;td&gt;26.2&lt;/td&gt;&lt;td&gt;135%&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;18.0&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;8.4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;10350&lt;/td&gt;&lt;td&gt;111%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Shannon Airport&lt;/td&gt;&lt;td&gt;16.0&lt;/td&gt;&lt;td&gt;+0.3&lt;/td&gt;&lt;td&gt;24.4&lt;/td&gt;&lt;td&gt;133%&lt;/td&gt;&lt;td&gt;34.3&lt;/td&gt;&lt;td&gt;112%&lt;/td&gt;&lt;td&gt;17.3&lt;/td&gt;&lt;td&gt;+1.9&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;-3.3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Valentia&lt;/td&gt;&lt;td&gt;14.8&lt;/td&gt;&lt;td&gt;-0.3&lt;/td&gt;&lt;td&gt;7.8&lt;/td&gt;&lt;td&gt;29%&lt;/td&gt;&lt;td&gt;35.3&lt;/td&gt;&lt;td&gt;118%&lt;/td&gt;&lt;td&gt;16.9&lt;/td&gt;&lt;td&gt;+1.5&lt;/td&gt;&lt;td&gt;4.6&lt;/td&gt;&lt;td&gt;-3.6&lt;/td&gt;&lt;td&gt;9440&lt;/td&gt;&lt;td&gt;104%&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;Images&lt;/h3&gt;&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/72ed4aa7d589aeb3a12c.jpg" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/37455934ceb8843bfc05.png" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/00d96befd7f411ea76c6.png" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/6cc193a97d9d8c94902f.png" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/d89fa6175a0786029910.png" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/ac42eac9d2628ae65ed1.png" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/7a174c69613b2acc500b.png" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/27df37df4a6059c56970.svg" alt="Agricultural Data Report — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</description>
+      <link>https://www.met.ie/forecasts/farming/agricultural-data-report</link>
+      <guid isPermaLink="false">Agricultural-Data-Report-2f747e686de5bf25b8d93149f64ae2dffded48d65ca5f32776da910ba78171b8</guid>
+      <pubDate>Sat, 29 Aug 2026 11:27:53 GMT</pubDate>
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/72ed4aa7d589aeb3a12c.jpg" type="image/jpeg" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/37455934ceb8843bfc05.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/00d96befd7f411ea76c6.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/6cc193a97d9d8c94902f.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/d89fa6175a0786029910.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/ac42eac9d2628ae65ed1.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/7a174c69613b2acc500b.png" type="image/png" length="0" />
+      <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/27df37df4a6059c56970.svg" type="image/svg+xml" length="0" />
+    </item>
+    
+<item>
+      <title>Latest Farming Commentary — 2026-08-29 11:27 UTC</title>
+      <description>&lt;p&gt;The Irish Meteorological Service&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Forecasts Weather Warnings &amp;amp; Advisories Fire Weather Index Meteoalarm- European Weather Warnings National &amp;amp; Regional Forecasts Listen To The Weather Forecast Meteorologist’s Commentary Accessible Text Forecast Atlantic Charts – 10 Day Forecast Ensemble Forecast Probability Maps Marine Sea Area Forecast UV Index Pollen Forecast Farming Commentary Agricultural Data Report Storm Names Mountains Forecast Fire Weather Index Blight Forecast Meteoalarm WorldWeather&lt;/li&gt;&lt;li&gt;Latest Reports Current Observations Yesterday’s Weather Surface Analysis Chart Satellites Ireland Europe World Weather Observations Website WOW-IE Recent Rainfall Radar 12 hour Rainfall Radar 24 hour Rainfall Radar 48 hour Rainfall Radar Buoy Reports Valentia Tephigram&lt;/li&gt;&lt;li&gt;Climate Climate of Ireland Climate Change Weather Extreme Records for Ireland Major Weather Events Summer Centre Storm Centre Past Weather Statements Past Weather Agrometeorological Bulletins Services NFCS Weather Observations Website WOW-IE Available Data Daily Data Historical Data Monthly Data MÉRA Long Term Data Sets 30 Year Averages Climate Change Indices Building Design Files What we measure Weather Observing Stations Temperature Rainfall Atmospheric Pressure Lightning Lightning Archive Sunshine Wind Upper Air Water Vapour&lt;/li&gt;&lt;li&gt;Education Education Podcasts School Resources What is Lightning? The Northern Lights About the Library Special Collections How Met Éireann produces a forecast Conversions Satellite Images of Ireland Publications Met Éireann publications Books published by Met Éireann Climatological Data Sets Technical Notes Climatological Notes Historical Notes Climate Change Research Reports Agrometeorological Bulletins Peer-reviewed journal articles by Met Éireann staff members&lt;/li&gt;&lt;li&gt;Science Science Weather and Climate Research Programme Research Call 2024 Research Professorship Call 2023 (Closed) Research Call 2023 (Closed) Research Call 2021 (Closed) Research Call 2020 (Closed) TRANSLATE TRANSLATE2 Agricultural Meteorology Climate Modelling Atlantic Meridional Overturning Circulation (AMOC) Events MÉRA Workshop 2019 MÉRA Workshop Forecasting Centre Television Weather Bulletins Met Éireann Ar An Raidió Laboratory Links to other Institutes Marine Meteorology Marine Climatology Numerical Weather Prediction Operational NWP Valentia Observatory Aerosol Optical Depth Air and Rain Pollution Geomagnetism Lightning Detection Ozone monitoring Phenology Seismology Solar Radiation Verification&lt;/li&gt;&lt;li&gt;Podcasts Listen To The Weather Forecast The Met Éireann Podcast Podchraoladh Met Éireann&lt;/li&gt;&lt;li&gt;About About Us Strategy Mission Statement Met Éireann’s Structure Our History Valentia Observatory Airports Specialised Services Flood Forecasting Centre Aviation Services Division Open Data Widgets Commercial Services Legal Weather Reports Information Contact Us Information For Media Latest News Awards Vacancies FAQ Website &amp;amp; App Help Privacy&lt;/li&gt;&lt;li&gt;Search&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Weather Warnings &amp;amp; Advisories Fire Weather Index Meteoalarm- European Weather Warnings&lt;/li&gt;&lt;li&gt;National &amp;amp; Regional Forecasts Listen To The Weather Forecast Meteorologist’s Commentary Accessible Text Forecast&lt;/li&gt;&lt;li&gt;Atlantic Charts – 10 Day Forecast&lt;/li&gt;&lt;li&gt;Ensemble Forecast Probability Maps&lt;/li&gt;&lt;li&gt;Marine Sea Area Forecast&lt;/li&gt;&lt;li&gt;UV Index&lt;/li&gt;&lt;li&gt;Pollen Forecast&lt;/li&gt;&lt;li&gt;Farming Commentary Agricultural Data Report&lt;/li&gt;&lt;li&gt;Storm Names&lt;/li&gt;&lt;li&gt;Mountains Forecast&lt;/li&gt;&lt;li&gt;Fire Weather Index&lt;/li&gt;&lt;li&gt;Blight Forecast&lt;/li&gt;&lt;li&gt;Meteoalarm&lt;/li&gt;&lt;li&gt;WorldWeather&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Fire Weather Index&lt;/li&gt;&lt;li&gt;Meteoalarm- European Weather Warnings&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Listen To The Weather Forecast&lt;/li&gt;&lt;li&gt;Meteorologist’s Commentary&lt;/li&gt;&lt;li&gt;Accessible Text Forecast&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Sea Area Forecast&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Agricultural Data Report&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Current Observations&lt;/li&gt;&lt;li&gt;Yesterday’s Weather&lt;/li&gt;&lt;li&gt;Surface Analysis Chart&lt;/li&gt;&lt;li&gt;Satellites Ireland Europe World&lt;/li&gt;&lt;li&gt;Weather Observations Website WOW-IE&lt;/li&gt;&lt;li&gt;Recent Rainfall Radar 12 hour Rainfall Radar 24 hour Rainfall Radar 48 hour Rainfall Radar&lt;/li&gt;&lt;li&gt;Buoy Reports&lt;/li&gt;&lt;li&gt;Valentia Tephigram&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Ireland&lt;/li&gt;&lt;li&gt;Europe&lt;/li&gt;&lt;li&gt;World&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;12 hour Rainfall Radar&lt;/li&gt;&lt;li&gt;24 hour Rainfall Radar&lt;/li&gt;&lt;li&gt;48 hour Rainfall Radar&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Climate of Ireland&lt;/li&gt;&lt;li&gt;Climate Change&lt;/li&gt;&lt;li&gt;Weather Extreme Records for Ireland&lt;/li&gt;&lt;li&gt;Major Weather Events&lt;/li&gt;&lt;li&gt;Summer Centre&lt;/li&gt;&lt;li&gt;Storm Centre&lt;/li&gt;&lt;li&gt;Past Weather Statements Past Weather Agrometeorological Bulletins&lt;/li&gt;&lt;li&gt;Services&lt;/li&gt;&lt;li&gt;NFCS&lt;/li&gt;&lt;li&gt;Weather Observations Website WOW-IE&lt;/li&gt;&lt;li&gt;Available Data Daily Data Historical Data Monthly Data MÉRA Long Term Data Sets 30 Year Averages Climate Change Indices Building Design Files&lt;/li&gt;&lt;li&gt;What we measure Weather Observing Stations Temperature Rainfall Atmospheric Pressure Lightning Lightning Archive Sunshine Wind Upper Air Water Vapour&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Past Weather Agrometeorological Bulletins&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Daily Data&lt;/li&gt;&lt;li&gt;Historical Data&lt;/li&gt;&lt;li&gt;Monthly Data&lt;/li&gt;&lt;li&gt;MÉRA&lt;/li&gt;&lt;li&gt;Long Term Data Sets&lt;/li&gt;&lt;li&gt;30 Year Averages&lt;/li&gt;&lt;li&gt;Climate Change Indices&lt;/li&gt;&lt;li&gt;Building Design Files&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Weather Observing Stations&lt;/li&gt;&lt;li&gt;Temperature&lt;/li&gt;&lt;li&gt;Rainfall&lt;/li&gt;&lt;li&gt;Atmospheric Pressure&lt;/li&gt;&lt;li&gt;Lightning Lightning Archive&lt;/li&gt;&lt;li&gt;Sunshine&lt;/li&gt;&lt;li&gt;Wind&lt;/li&gt;&lt;li&gt;Upper Air&lt;/li&gt;&lt;li&gt;Water Vapour&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Lightning Archive&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Education&lt;/li&gt;&lt;li&gt;Podcasts&lt;/li&gt;&lt;li&gt;School Resources What is Lightning? The Northern Lights&lt;/li&gt;&lt;li&gt;About the Library&lt;/li&gt;&lt;li&gt;Special Collections&lt;/li&gt;&lt;li&gt;How Met Éireann produces a forecast&lt;/li&gt;&lt;li&gt;Conversions&lt;/li&gt;&lt;li&gt;Satellite Images of Ireland&lt;/li&gt;&lt;li&gt;Publications Met Éireann publications Books published by Met Éireann Climatological Data Sets Technical Notes Climatological Notes Historical Notes Climate Change Research Reports Agrometeorological Bulletins Peer-reviewed journal articles by Met Éireann staff members&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;What is Lightning?&lt;/li&gt;&lt;li&gt;The Northern Lights&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Met Éireann publications&lt;/li&gt;&lt;li&gt;Books published by Met Éireann&lt;/li&gt;&lt;li&gt;Climatological Data Sets&lt;/li&gt;&lt;li&gt;Technical Notes&lt;/li&gt;&lt;li&gt;Climatological Notes&lt;/li&gt;&lt;li&gt;Historical Notes&lt;/li&gt;&lt;li&gt;Climate Change Research Reports&lt;/li&gt;&lt;li&gt;Agrometeorological Bulletins&lt;/li&gt;&lt;li&gt;Peer-reviewed journal articles by Met Éireann staff members&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Science&lt;/li&gt;&lt;li&gt;Weather and Climate Research Programme Research Call 2024 Research Professorship Call 2023 (Closed) Research Call 2023 (Closed) Research Call 2021 (Closed) Research Call 2020 (Closed)&lt;/li&gt;&lt;li&gt;TRANSLATE TRANSLATE2&lt;/li&gt;&lt;li&gt;Agricultural Meteorology&lt;/li&gt;&lt;li&gt;Climate Modelling Atlantic Meridional Overturning Circulation (AMOC)&lt;/li&gt;&lt;li&gt;Events MÉRA Workshop 2019 MÉRA Workshop&lt;/li&gt;&lt;li&gt;Forecasting Centre Television Weather Bulletins&lt;/li&gt;&lt;li&gt;Met Éireann Ar An Raidió&lt;/li&gt;&lt;li&gt;Laboratory&lt;/li&gt;&lt;li&gt;Links to other Institutes&lt;/li&gt;&lt;li&gt;Marine Meteorology Marine Climatology&lt;/li&gt;&lt;li&gt;Numerical Weather Prediction Operational NWP&lt;/li&gt;&lt;li&gt;Valentia Observatory Aerosol Optical Depth Air and Rain Pollution Geomagnetism Lightning Detection Ozone monitoring Phenology Seismology Solar Radiation&lt;/li&gt;&lt;li&gt;Verification&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Research Call 2024&lt;/li&gt;&lt;li&gt;Research Professorship Call 2023 (Closed)&lt;/li&gt;&lt;li&gt;Research Call 2023 (Closed)&lt;/li&gt;&lt;li&gt;Research Call 2021 (Closed)&lt;/li&gt;&lt;li&gt;Research Call 2020 (Closed)&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;TRANSLATE2&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Atlantic Meridional Overturning Circulation (AMOC)&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;MÉRA Workshop 2019&lt;/li&gt;&lt;li&gt;MÉRA Workshop&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Television Weather Bulletins&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Marine Climatology&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Operational NWP&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Aerosol Optical Depth&lt;/li&gt;&lt;li&gt;Air and Rain Pollution&lt;/li&gt;&lt;li&gt;Geomagnetism&lt;/li&gt;&lt;li&gt;Lightning Detection&lt;/li&gt;&lt;li&gt;Ozone monitoring&lt;/li&gt;&lt;li&gt;Phenology&lt;/li&gt;&lt;li&gt;Seismology&lt;/li&gt;&lt;li&gt;Solar Radiation&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Listen To The Weather Forecast&lt;/li&gt;&lt;li&gt;The Met Éireann Podcast&lt;/li&gt;&lt;li&gt;Podchraoladh Met Éireann&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;About Us&lt;/li&gt;&lt;li&gt;Strategy Mission Statement&lt;/li&gt;&lt;li&gt;Met Éireann’s Structure&lt;/li&gt;&lt;li&gt;Our History Valentia Observatory Airports&lt;/li&gt;&lt;li&gt;Specialised Services Flood Forecasting Centre Aviation Services Division Open Data Widgets Commercial Services&lt;/li&gt;&lt;li&gt;Legal Weather Reports Information&lt;/li&gt;&lt;li&gt;Contact Us&lt;/li&gt;&lt;li&gt;Information For Media&lt;/li&gt;&lt;li&gt;Latest News&lt;/li&gt;&lt;li&gt;Awards&lt;/li&gt;&lt;li&gt;Vacancies&lt;/li&gt;&lt;li&gt;FAQ&lt;/li&gt;&lt;li&gt;Website &amp;amp; App Help&lt;/li&gt;&lt;li&gt;Privacy&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Mission Statement&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Valentia Observatory&lt;/li&gt;&lt;li&gt;Airports&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Flood Forecasting Centre&lt;/li&gt;&lt;li&gt;Aviation Services Division&lt;/li&gt;&lt;li&gt;Open Data&lt;/li&gt;&lt;li&gt;Widgets&lt;/li&gt;&lt;li&gt;Commercial Services&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Warnings&lt;/li&gt;&lt;li&gt;Status: Green Weather&lt;/li&gt;&lt;li&gt;Status: Green Marine&lt;/li&gt;&lt;li&gt;Status: Yellow Advisory&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;Latest Farming Commentary&lt;/h1&gt;
+&lt;h3&gt;Forecast issued at: Thursday 27th August 2026 14:00&lt;/h3&gt;
+&lt;h4&gt;Rain&lt;/h4&gt;
+&lt;p&gt;Over the last week rainfall amounts have been below average across the country, ranging between 19 to 89% of average for the time of year. The regions were in the northwest and east. Knock Airport, Co Mayo had the highest accumulation of rainfall, 15.1mm or 61% of average. It was driest in the north and southwest. Valentia Observatory, Co Kerry has the least amount of rainfall with 5.2mm or 19% of average. This coming week the weather is expected to become unsettled with heavy and persistent spells of rain or showers. Rainfall amounts are expected to reach average or twice that, with the highest accumulations forecast in the south and west. Further north will remain drier but rainfall will still reach the average if not slightly above.&lt;/p&gt;
+&lt;h4&gt;Temperatures&lt;/h4&gt;
+&lt;p&gt;Air temperatures over the past seven days were near or below normal, ranging between 13.5 and 15.7 degrees. It was milfest in the south with 15.6 degrees recorded at Roches Point, Co Cork. It was cooler further north with 13.5 degrees recorded at Ballyhaise, Co Cavan. Soil temperatures are mostly above average, with values ranging between 0.9 and 2.9 degrees above normal, or 15 and 18.2 degrees. Soil temperatures are expected to remain similar.&lt;/p&gt;
+&lt;h4&gt;Sunshine&lt;/h4&gt;
+&lt;p&gt;Sunshine amounts over the past week were close to or above normal. It was sunniest in the south and southwest, with 45.6 hours of sunshine recorded at Cork Airport (130% of average). The least sunshine was recorded in the northeast, with 28.7 hours at Casement Aerodrome. With unsettled weather forecast for the coming week, sunshine amounts are likely to be lower than normal.&lt;/p&gt;
+&lt;h4&gt;Drying Conditions&lt;/h4&gt;
+&lt;p&gt;Drying conditions will be moderate to poor over the next week with frequent showers or longer spells of rain.&lt;/p&gt;
+&lt;h4&gt;Spraying&lt;/h4&gt;
+&lt;p&gt;Spraying conditions will be moderate to poor over the next week with frequent showers or longer spells of rain. It will also become breezier from Sunday onwards.&lt;/p&gt;
+&lt;h4&gt;Field Conditions&lt;/h4&gt;
+&lt;p&gt;Soil moisture deficits (SMDs) in the south and east are between 40 and 85mm, while some soils in the far northwest are close to saturation. Apart from the far northwest, most soils are experiencing restrictions to growth. With above average precipitation expected over the coming week, SMDs will generally decrease by 20 to 40mm in the south and east, with the chance that some soils in the north and northwest will become waterlogged or close to it.&lt;/p&gt;
+&lt;h4&gt;Further Comments&lt;/h4&gt;
+&lt;p&gt;A potato blight advisory is in effect. Weather conditions conducive to the spread of potato blight will develop in many areas from Wednesday morning 26th August to Sunday evening 30th August. There will be limited opportunities for spraying over the coming week.&lt;/p&gt;
+&lt;h3&gt;Forecasts&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Weather Warnings &amp;amp; Advisories Fire Weather Index Meteoalarm- European Weather Warnings&lt;/li&gt;&lt;li&gt;National &amp;amp; Regional Forecasts Listen To The Weather Forecast Meteorologist’s Commentary Accessible Text Forecast&lt;/li&gt;&lt;li&gt;Atlantic Charts – 10 Day Forecast&lt;/li&gt;&lt;li&gt;Ensemble Forecast Probability Maps&lt;/li&gt;&lt;li&gt;Marine Sea Area Forecast&lt;/li&gt;&lt;li&gt;UV Index&lt;/li&gt;&lt;li&gt;Pollen Forecast&lt;/li&gt;&lt;li&gt;Farming Commentary Agricultural Data Report&lt;/li&gt;&lt;li&gt;Storm Names&lt;/li&gt;&lt;li&gt;Mountains Forecast&lt;/li&gt;&lt;li&gt;Fire Weather Index&lt;/li&gt;&lt;li&gt;Blight Forecast&lt;/li&gt;&lt;li&gt;Meteoalarm&lt;/li&gt;&lt;li&gt;WorldWeather&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Fire Weather Index&lt;/li&gt;&lt;li&gt;Meteoalarm- European Weather Warnings&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Listen To The Weather Forecast&lt;/li&gt;&lt;li&gt;Meteorologist’s Commentary&lt;/li&gt;&lt;li&gt;Accessible Text Forecast&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Sea Area Forecast&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Agricultural Data Report&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Agricultural Data Graphs&lt;/h2&gt;
+&lt;h4&gt;Mean Air Temperature Degrees Celsius&lt;/h4&gt;
+&lt;p&gt;Fri 21st Aug to Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Mean Air Temperature Degrees Celsius Difference from Normal&lt;/h4&gt;
+&lt;p&gt;Fri 21st Aug to Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Accumulated Rainfall mm&lt;/h4&gt;
+&lt;p&gt;Fri 21st Aug to Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Accumulated Rainfall mm Percentage of Average&lt;/h4&gt;
+&lt;p&gt;Fri 21st Aug to Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Accumulated Solar Radiation Joules per cm^2&lt;/h4&gt;
+&lt;p&gt;Fri 21st Aug to Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Accumulated Solar Radiation Joules per cm^2 Percentage of Average&lt;/h4&gt;
+&lt;p&gt;Fri 21st Aug to Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Accumulated Sunshine hours&lt;/h4&gt;
+&lt;p&gt;Fri 21st Aug to Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Accumulated Sunshine hours Percentage of Average&lt;/h4&gt;
+&lt;p&gt;Fri 21st Aug to Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Mean Soil Temperature Degrees Celsius&lt;/h4&gt;
+&lt;p&gt;Fri 21st Aug to Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Mean Soil Temperature Degrees Celsius Difference from Normal&lt;/h4&gt;
+&lt;p&gt;Fri 21st Aug to Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Mean Wind Speed Knots&lt;/h4&gt;
+&lt;p&gt;Fri 21st Aug to Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Mean Wind Speed Knots Difference from Normal&lt;/h4&gt;
+&lt;p&gt;Fri 21st Aug to Thu 27th Aug&lt;/p&gt;
+&lt;h2&gt;Soil Moisture Deficits&lt;/h2&gt;
+&lt;h4&gt;Well Drained Soil Moisture Deficit&lt;/h4&gt;
+&lt;p&gt;Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Moderately Drained Soil Moisture Deficit&lt;/h4&gt;
+&lt;p&gt;Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Poorly Drained Soil Moisture Deficit&lt;/h4&gt;
+&lt;p&gt;Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Well Drained Soil Moisture Deficit Difference from Normal&lt;/h4&gt;
+&lt;p&gt;Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Moderately Drained Soil Moisture Deficit Difference from Normal&lt;/h4&gt;
+&lt;p&gt;Thu 27th Aug&lt;/p&gt;
+&lt;h4&gt;Poorly Drained Soil Moisture Deficit Difference from Normal&lt;/h4&gt;
+&lt;p&gt;Thu 27th Aug&lt;/p&gt;
+&lt;p&gt;Soil Moisture Deficits (SMDs) in (mm) are calculated for three classes of soil: well drained, moderately drained and poorly drained. For further information on how Soil Moisture Deficits are calculated, click here .&lt;/p&gt;
+&lt;p&gt;Back to top of page&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Cookies Settings&lt;/li&gt;&lt;li&gt;Cookie Information&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;As Gaeilge&lt;/li&gt;&lt;li&gt;Contact&lt;/li&gt;&lt;li&gt;Privacy&lt;/li&gt;&lt;li&gt;FAQ&lt;/li&gt;&lt;li&gt;Copyright Notice&lt;/li&gt;&lt;li&gt;Accessibility&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Search&lt;/h2&gt;
+&lt;h2&gt;Connect&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;Twitter&lt;/li&gt;&lt;li&gt;Facebook&lt;/li&gt;&lt;li&gt;YouTube&lt;/li&gt;&lt;li&gt;LinkedIn&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Download our apps&lt;/h2&gt;&lt;h3&gt;Images&lt;/h3&gt;&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/72ed4aa7d589aeb3a12c.jpg" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/37455934ceb8843bfc05.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/0a3d0375364e097acc52.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/f9e1a961105738b060e2.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/3fa7af8ed937b78e1c49.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/535f3237f150f54a4617.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/23b13adcecde44e1447a.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/f4bae8cca0c9845169f8.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/f42ce8f65ee1db163d09.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/609a6b6c282cbc9f66b8.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/dc6302b911b2c36c6f01.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/347df3f8cd962c2cc724.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/6230d4a96b36d069a51c.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/29682d42d4fd3006c901.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/ee816acb40e2174d26fb.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/d1a3e1aa29219a387e1d.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/061736f5ad611678fa09.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/56e36898079d3de29f20.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/65e17b007a6c631a911c.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/88a3741c1299fd968d5e.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/00d96befd7f411ea76c6.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/6cc193a97d9d8c94902f.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/d89fa6175a0786029910.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/ac42eac9d2628ae65ed1.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/7a174c69613b2acc500b.png" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/27df37df4a6059c56970.svg" alt="Latest Farming Commentary — 2026-08-29 11:27 UTC" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;</description>
       <link>https://www.met.ie/forecasts/farming</link>
       <guid isPermaLink="false">Latest-Farming-Commentary-6ca167aa8cf28e18d72527419d91210188b278aff002fd9d8271c25738b30313</guid>
       <pubDate>Sat, 29 Aug 2026 11:27:59 GMT</pubDate>
@@ -285,6 +447,7 @@
       <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/7a174c69613b2acc500b.png" type="image/png" length="0" />
       <enclosure url="https://jshanley-RCC.github.io/met-eireann-farming-feed/images/27df37df4a6059c56970.svg" type="image/svg+xml" length="0" />
     </item>
+
 <item>
       <title>Roscommon County forecast — 2026-08-29 10:40 UTC</title>
       <description>&lt;p&gt;2026-08-29T00:00:00&lt;br&gt;&lt;br&gt;2026-08-30T00:00:00&lt;br&gt;&lt;br&gt;medium_rain_showers&lt;br&gt;&lt;br&gt;2026-08-31T00:00:00&lt;br&gt;&lt;br&gt;sun_with_light_cloud&lt;br&gt;&lt;br&gt;2026-09-01T00:00:00&lt;br&gt;&lt;br&gt;heavy_rain_showers&lt;br&gt;&lt;br&gt;sun_with_grey_cloud&lt;br&gt;&lt;br&gt;scattered_clouds&lt;/p&gt;</description>
@@ -293,6 +456,7 @@
       <pubDate>Sat, 29 Aug 2026 10:40:39 GMT</pubDate>
     </item>
     
+
 <item>
       <title>Connacht regional forecast — 2026-08-29 10:40 UTC</title>
       <description>&lt;p&gt;A wet start with widespread rain, drizzle and some mist. The rain will be very heavy and persistent at times with the chance of localised flooding. Drier conditions will develop through the morning and afternoon with some sunny spells following too. Highest temperatures of 15 to 19 degrees, with light to moderate north to northwest winds backing westerly.&lt;br&gt;&lt;br&gt;Starting off with a mix of cloud and clear spells and just a few showers. However, as the night progresses scattered showers or more persistent spells of rain will develop and some of these will be very heavy. Lowest temperatures of 10 to 15 degrees, with mostly light southerly winds, freshening in the southwest towards morning.&lt;br&gt;&lt;br&gt;Widespread showers or more persistent spells of rain. These will be very heavy at times with thunderstorms and localised flooding possible. Some sunny spells will develop through the day. Highest temperatures of 16 to 19 degrees, with light to moderate, fresh at times, variable winds.&lt;br&gt;&lt;br&gt;Low to moderate.&lt;/p&gt;</description>
@@ -301,6 +465,7 @@
       <pubDate>Sat, 29 Aug 2026 10:40:39 GMT</pubDate>
     </item>
     
+
 <item>
       <title>Three-day forecast — 2026-08-29 10:40 UTC</title>
       <description>&lt;p&gt;2026-08-29T12:00:00&lt;br&gt;&lt;br&gt;sun_with_light_cloud.png&lt;br&gt;&lt;br&gt;SCATTERED_CLOUDS&lt;br&gt;&lt;br&gt;2026-08-30T12:00:00&lt;br&gt;&lt;br&gt;heavy_rain_showers.png&lt;br&gt;&lt;br&gt;HEAVY_RAIN_SHOWERS&lt;br&gt;&lt;br&gt;SUN_WITH_LIGHT_CLOUD&lt;br&gt;&lt;br&gt;2026-08-31T12:00:00&lt;br&gt;&lt;br&gt;rain_showers.png&lt;br&gt;&lt;br&gt;sun_with_grey_cloud.png&lt;br&gt;&lt;br&gt;SUN_WITH_GREY_CLOUD&lt;br&gt;&lt;br&gt;medium_rain_showers.png&lt;br&gt;&lt;br&gt;MEDIUM_RAIN_SHOWERS&lt;br&gt;&lt;br&gt;thunderstorm.png&lt;/p&gt;</description>
@@ -309,6 +474,7 @@
       <pubDate>Sat, 29 Aug 2026 10:40:39 GMT</pubDate>
     </item>
     
+
 <item>
       <title>Agricultural Data Report — 2026-08-29 10:40 UTC</title>
       <description>&lt;p&gt;{&lt;br&gt;  &amp;quot;report&amp;quot;: {&lt;br&gt;    &amp;quot;valid&amp;quot;: {&lt;br&gt;      &amp;quot;@from&amp;quot;: &amp;quot;2026-08-21T00:00:00+00:00&amp;quot;,&lt;br&gt;      &amp;quot;@to&amp;quot;: &amp;quot;2026-08-27T22:59:59+00:00&amp;quot;&lt;br&gt;    },&lt;br&gt;    &amp;quot;station&amp;quot;: [&lt;br&gt;      {&lt;br&gt;        &amp;quot;@name&amp;quot;: &amp;quot;Ballyhaise&amp;quot;,&lt;br&gt;        &amp;quot;temp&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;13.8&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;c&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;temp-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;-0.9&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;8.3&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;mm&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain-per&amp;quot;: &amp;quot;42%&amp;quot;,&lt;br&gt;        &amp;quot;sun&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;hours&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;sun-per&amp;quot;: null,&lt;br&gt;        &amp;quot;soil&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;16.1&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;soil-diff&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;3.8&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind-diff&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;7970&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;JperCM2&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation-per&amp;quot;: &amp;quot;96%&amp;quot;&lt;br&gt;      },&lt;br&gt;      {&lt;br&gt;        &amp;quot;@name&amp;quot;: &amp;quot;Belmullet&amp;quot;,&lt;br&gt;        &amp;quot;temp&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;15.8&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;c&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;temp-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+1.2&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;8.4&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;mm&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain-per&amp;quot;: &amp;quot;36%&amp;quot;,&lt;br&gt;        &amp;quot;sun&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;35.4&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;hours&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;sun-per&amp;quot;: &amp;quot;118%&amp;quot;,&lt;br&gt;        &amp;quot;soil&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;17.6&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;soil-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+2.4&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;6.1&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;-5.3&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;10120&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;JperCM2&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation-per&amp;quot;: &amp;quot;116%&amp;quot;&lt;br&gt;      },&lt;br&gt;      {&lt;br&gt;        &amp;quot;@name&amp;quot;: &amp;quot;Gurteen&amp;quot;,&lt;br&gt;        &amp;quot;temp&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;15.1&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;c&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;temp-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+0.4&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;8.5&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;mm&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain-per&amp;quot;: &amp;quot;45%&amp;quot;,&lt;br&gt;        &amp;quot;sun&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;29.1&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;hours&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;sun-per&amp;quot;: null,&lt;br&gt;        &amp;quot;soil&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;17.0&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;soil-diff&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;4.7&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind-diff&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;9290&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;JperCM2&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation-per&amp;quot;: &amp;quot;108%&amp;quot;&lt;br&gt;      },&lt;br&gt;      {&lt;br&gt;        &amp;quot;@name&amp;quot;: &amp;quot;Casement&amp;quot;,&lt;br&gt;        &amp;quot;temp&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;14.2&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;c&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;temp-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;-0.6&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;22.0&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;mm&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain-per&amp;quot;: &amp;quot;140%&amp;quot;,&lt;br&gt;        &amp;quot;sun&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;27.4&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;hours&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;sun-per&amp;quot;: &amp;quot;84%&amp;quot;,&lt;br&gt;        &amp;quot;soil&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;15.7&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;soil-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+1.1&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;5.5&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;-3.7&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;6620&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;JperCM2&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation-per&amp;quot;: &amp;quot;86%&amp;quot;&lt;br&gt;      },&lt;br&gt;      {&lt;br&gt;        &amp;quot;@name&amp;quot;: &amp;quot;Claremorris&amp;quot;,&lt;br&gt;        &amp;quot;temp&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;14.9&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;c&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;temp-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+0.6&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;8.4&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;mm&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain-per&amp;quot;: &amp;quot;38%&amp;quot;,&lt;br&gt;        &amp;quot;sun&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;hours&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;sun-per&amp;quot;: null,&lt;br&gt;        &amp;quot;soil&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;16.7&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;soil-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+2.3&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;5.2&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;-2.1&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;JperCM2&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation-per&amp;quot;: null&lt;br&gt;      },&lt;br&gt;      {&lt;br&gt;        &amp;quot;@name&amp;quot;: &amp;quot;Cork Airport&amp;quot;,&lt;br&gt;        &amp;quot;temp&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;15.0&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;c&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;temp-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+0.3&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;16.7&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;mm&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain-per&amp;quot;: &amp;quot;76%&amp;quot;,&lt;br&gt;        &amp;quot;sun&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;39.4&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;hours&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;sun-per&amp;quot;: &amp;quot;113%&amp;quot;,&lt;br&gt;        &amp;quot;soil&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;17.5&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;soil-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+2.9&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;7.9&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;-1.2&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;9970&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;JperCM2&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation-per&amp;quot;: null&lt;br&gt;      },&lt;br&gt;      {&lt;br&gt;        &amp;quot;@name&amp;quot;: &amp;quot;Dublin Airport&amp;quot;,&lt;br&gt;        &amp;quot;temp&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;14.1&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;c&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;temp-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;-0.7&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;27.6&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;mm&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain-per&amp;quot;: &amp;quot;174%&amp;quot;,&lt;br&gt;        &amp;quot;sun&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;32.5&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;hours&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;sun-per&amp;quot;: &amp;quot;96%&amp;quot;,&lt;br&gt;        &amp;quot;soil&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;15.9&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;soil-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+1.1&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;6.6&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;-2.2&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;7070&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;JperCM2&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation-per&amp;quot;: &amp;quot;93%&amp;quot;&lt;br&gt;      },&lt;br&gt;      {&lt;br&gt;        &amp;quot;@name&amp;quot;: &amp;quot;Johnstown Castle&amp;quot;,&lt;br&gt;        &amp;quot;temp&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;15.1&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;c&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;temp-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+0.1&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;27.4&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;mm&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain-per&amp;quot;: &amp;quot;142%&amp;quot;,&lt;br&gt;        &amp;quot;sun&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;42.6&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;hours&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;sun-per&amp;quot;: &amp;quot;119%&amp;quot;,&lt;br&gt;        &amp;quot;soil&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;17.5&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;soil-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+2.1&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;5.8&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind-diff&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;9740&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;JperCM2&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation-per&amp;quot;: &amp;quot;104%&amp;quot;&lt;br&gt;      },&lt;br&gt;      {&lt;br&gt;        &amp;quot;@name&amp;quot;: &amp;quot;Knock Airport&amp;quot;,&lt;br&gt;        &amp;quot;temp&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;14.8&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;c&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;temp-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+1.5&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;10.1&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;mm&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain-per&amp;quot;: &amp;quot;41%&amp;quot;,&lt;br&gt;        &amp;quot;sun&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;hours&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;sun-per&amp;quot;: null,&lt;br&gt;        &amp;quot;soil&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;15.1&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;soil-diff&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;6.7&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind-diff&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;JperCM2&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation-per&amp;quot;: null&lt;br&gt;      },&lt;br&gt;      {&lt;br&gt;        &amp;quot;@name&amp;quot;: &amp;quot;Malin Head&amp;quot;,&lt;br&gt;        &amp;quot;temp&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;14.8&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;c&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;temp-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+0.2&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;4.8&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;mm&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain-per&amp;quot;: &amp;quot;21%&amp;quot;,&lt;br&gt;        &amp;quot;sun&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;34.1&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;hours&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;sun-per&amp;quot;: &amp;quot;114%&amp;quot;,&lt;br&gt;        &amp;quot;soil&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;15.6&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;soil-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+1.5&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;11.9&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;-1.4&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;9630&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;JperCM2&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation-per&amp;quot;: &amp;quot;114%&amp;quot;&lt;br&gt;      },&lt;br&gt;      {&lt;br&gt;        &amp;quot;@name&amp;quot;: &amp;quot;Mullingar&amp;quot;,&lt;br&gt;        &amp;quot;temp&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;14.3&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;c&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;temp-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;-0.0&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;8.7&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;mm&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain-per&amp;quot;: &amp;quot;45%&amp;quot;,&lt;br&gt;        &amp;quot;sun&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;hours&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;sun-per&amp;quot;: null,&lt;br&gt;        &amp;quot;soil&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;16.3&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;soil-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+1.7&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;4.4&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;-2.0&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;7450&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;JperCM2&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation-per&amp;quot;: &amp;quot;89%&amp;quot;&lt;br&gt;      },&lt;br&gt;      {&lt;br&gt;        &amp;quot;@name&amp;quot;: &amp;quot;Oak park&amp;quot;,&lt;br&gt;        &amp;quot;temp&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;15.0&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;c&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;temp-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;-0.2&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;30.5&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;mm&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain-per&amp;quot;: &amp;quot;188%&amp;quot;,&lt;br&gt;        &amp;quot;sun&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;hours&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;sun-per&amp;quot;: null,&lt;br&gt;        &amp;quot;soil&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;17.9&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;soil-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+2.8&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;4.3&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind-diff&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;9860&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;JperCM2&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation-per&amp;quot;: &amp;quot;113%&amp;quot;&lt;br&gt;      },&lt;br&gt;      {&lt;br&gt;        &amp;quot;@name&amp;quot;: &amp;quot;Roches Point&amp;quot;,&lt;br&gt;        &amp;quot;temp&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;15.8&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;c&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;temp-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+0.7&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;26.2&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;mm&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain-per&amp;quot;: &amp;quot;135%&amp;quot;,&lt;br&gt;        &amp;quot;sun&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;hours&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;sun-per&amp;quot;: null,&lt;br&gt;        &amp;quot;soil&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;18.0&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;soil-diff&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;8.4&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind-diff&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;10350&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;JperCM2&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation-per&amp;quot;: &amp;quot;111%&amp;quot;&lt;br&gt;      },&lt;br&gt;      {&lt;br&gt;        &amp;quot;@name&amp;quot;: &amp;quot;Shannon Airport&amp;quot;,&lt;br&gt;        &amp;quot;temp&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;16.0&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;c&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;temp-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+0.3&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;24.4&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;mm&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain-per&amp;quot;: &amp;quot;133%&amp;quot;,&lt;br&gt;        &amp;quot;sun&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;34.3&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;hours&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;sun-per&amp;quot;: &amp;quot;112%&amp;quot;,&lt;br&gt;        &amp;quot;soil&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;17.3&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;soil-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+1.9&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;5.0&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;-3.3&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation&amp;quot;: {&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;JperCM2&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation-per&amp;quot;: null&lt;br&gt;      },&lt;br&gt;      {&lt;br&gt;        &amp;quot;@name&amp;quot;: &amp;quot;Valentia&amp;quot;,&lt;br&gt;        &amp;quot;temp&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;14.8&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;c&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;temp-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;-0.3&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;7.8&amp;quot;,&lt;br&gt;          &amp;quot;@unit&amp;quot;: &amp;quot;mm&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;rain-per&amp;quot;: &amp;quot;29%&amp;quot;,&lt;br&gt;        &amp;quot;sun&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;35.3&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;hours&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;sun-per&amp;quot;: &amp;quot;118%&amp;quot;,&lt;br&gt;        &amp;quot;soil&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;16.9&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;soil-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;+1.5&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;C&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;4.6&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;wind-diff&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;-3.6&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;kts&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation&amp;quot;: {&lt;br&gt;          &amp;quot;#text&amp;quot;: &amp;quot;9440&amp;quot;,&lt;br&gt;          &amp;quot;@units&amp;quot;: &amp;quot;JperCM2&amp;quot;&lt;br&gt;        },&lt;br&gt;        &amp;quot;radiation-per&amp;quot;: &amp;quot;104%&amp;quot;&lt;br&gt;      }&lt;br&gt;    ]&lt;br&gt;  }&lt;br&gt;}&lt;/p&gt;</description>
@@ -317,6 +483,7 @@
       <pubDate>Sat, 29 Aug 2026 10:40:40 GMT</pubDate>
     </item>
 
+
 <item>
       <title>Met Éireann farming forecast — issued 2026-08-29T09:40:18.892099+00:00</title>
       <description>&lt;p&gt;&lt;strong&gt;Issued:&lt;/strong&gt; 2026-08-29T09:40:18.892099+00:00&lt;/p&gt;&lt;p&gt;Over the last week rainfall amounts have been below average across the country, ranging between 19 to 89% of average for the time of year. The regions were in the northwest and east. Knock Airport, Co Mayo had the highest accumulation of rainfall, 15.1mm or 61% of average. It was driest in the north and southwest. Valentia Observatory, Co Kerry has the least amount of rainfall with 5.2mm or 19% of average. This coming week the weather is expected to become unsettled with heavy and persistent spells of rain or showers. Rainfall amounts are expected to reach average or twice that, with the highest accumulations forecast in the south and west. Further north will remain drier but rainfall will still reach the average if not slightly above.&lt;br&gt;&lt;br&gt;Air temperatures over the past seven days were near or below normal, ranging between 13.5 and 15.7 degrees. It was milfest in the south with 15.6 degrees recorded at Roches Point, Co Cork. It was cooler further north with 13.5 degrees recorded at Ballyhaise, Co Cavan. Soil temperatures are mostly above average, with values ranging between 0.9 and 2.9 degrees above normal, or 15 and 18.2 degrees. Soil temperatures are expected to remain similar.&lt;br&gt;&lt;br&gt;Sunshine amounts over the past week were close to or above normal. It was sunniest in the south and southwest, with 45.6 hours of sunshine recorded at Cork Airport (130% of average). The least sunshine was recorded in the northeast, with 28.7 hours at Casement Aerodrome. With unsettled weather forecast for the coming week, sunshine amounts are likely to be lower than normal.&lt;br&gt;&lt;br&gt;Drying conditions will be moderate to poor over the next week with frequent showers or longer spells of rain.&lt;br&gt;&lt;br&gt;Spraying conditions will be moderate to poor over the next week with frequent showers or longer spells of rain. It will also become breezier from Sunday onwards.&lt;br&gt;&lt;br&gt;Soil moisture deficits (SMDs) in the south and east are between 40 and 85mm, while some soils in the far northwest are close to saturation. Apart from the far northwest, most soils are experiencing restrictions to growth. With above average precipitation expected over the coming week, SMDs will generally decrease by 20 to 40mm in the south and east, with the chance that some soils in the north and northwest will become waterlogged or close to it.&lt;br&gt;&lt;br&gt;A potato blight advisory is in effect. Weather conditions conducive to the spread of potato blight will develop in many areas from Wednesday morning 26th August to Sunday evening 30th August. There will be limited opportunities for spraying over the coming week.&lt;/p&gt;</description>
@@ -324,6 +491,7 @@
       <guid isPermaLink="false">met-eireann-farming-9159c1841667cb30324adf07eda9f65f529fa9485abed0f17de820e00ae8ac4d</guid>
       <pubDate>Sat, 29 Aug 2026 09:40:18 GMT</pubDate>
     </item>
+  
   
   
   
