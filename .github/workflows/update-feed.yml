@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-met-eireann-feed
+  cancel-in-progress: false
+
 jobs:
   update-feed:
     runs-on: ubuntu-latest
@@ -15,6 +19,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -27,7 +33,7 @@ jobs:
       - name: Generate RSS feed
         run: python generate_feed.py
 
-      - name: Commit updated feed and archive
+      - name: Commit and push updated feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -41,5 +47,7 @@ jobs:
 
           git commit -m "Update farming forecast"
 
-          git pull --rebase origin main
+          git fetch origin main
+          git rebase origin/main
+
           git push origin HEAD:main
